@@ -1,8 +1,3 @@
-import random
-
-# include array for orientations
-
-
 def print_cube():
     print(*bottom[0:3], sep =' ')
     print(*bottom[3:6], sep =' ')
